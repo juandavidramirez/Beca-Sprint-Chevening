@@ -1,0 +1,6 @@
+{
+  "name": "Becas Sprint",
+  "description": "Asesoría y acompañamiento estratégico para ganar becas internacionales de posgrado (Chevening, Swedish Institute y más).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
